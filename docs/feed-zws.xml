@@ -5,8 +5,14 @@
         <item>
             <link>https://zezo.dev</link>
             <title>ZWebServer - Tìm hiểu thêm</title>
-            <generator>MRS</generator>
+            <generator>Zezo.dev</generator>
         </item>
+        <item>
+            <link>https://zezo.dev/note/huong-dan-doi-dia-chi-website-cua-wordpress</link>
+            <title>Hướng dẫn đổi địa chỉ website(url) của wordpress</title>
+            <generator>Zezo.dev</generator>
+        </item>
+        
 
     </channel>
 </rss>
